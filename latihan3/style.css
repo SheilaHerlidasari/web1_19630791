@@ -1,0 +1,48 @@
+h1 {
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.biru {
+    width: 100px;
+    background: #0288d1;
+    height: 50px;
+    margin: 10px;
+    margin-left: 0px;
+    padding: 50px;
+    color: #ffffff;
+    float: left;
+}
+
+#ungu {
+    width: 100px;
+    background: purple;
+    height: 50px;
+    margin: 10px;
+    margin-left: 0px;
+    padding: 50px;
+    color: #ffffff;
+    float: left;
+}
+
+.pink {
+    width: 100px;
+    background: #ff88bb;
+    height: 50px;
+    margin: 10px;
+    margin-left: 0px;
+    padding: 50px;
+    color: #ffffff;
+    float: left;
+}
+
+#orange {
+    width: 100px;
+    background: orange;
+    height: 50px;
+    margin: 10px;
+    margin-left: 0px;
+    padding: 50px;
+    color: #ffffff;
+    float: left;
+}
